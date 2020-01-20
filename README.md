@@ -35,3 +35,19 @@ Slides are available as google slides and can be accessed at the following links
 ## Hands-on Notebooks
 
 All the hands-on Jupyter notebooks can be run on Google Colab, so no need to install anything locally on your laptop. Simply click on the links below and try the notebooks.
+
+**First Fully Connected Network with Keras**: [https://colab.research.google.com/drive/1TH8CPLwHeYZ5Fd-BLYm9NCeDYcqvSDa6](https://colab.research.google.com/drive/1TH8CPLwHeYZ5Fd-BLYm9NCeDYcqvSDa6)
+
+**First example of CNN with Keras**: [https://colab.research.google.com/drive/1JMadgcCdcvpvfxH2eWnYnu99R-uW6qUg](https://colab.research.google.com/drive/1JMadgcCdcvpvfxH2eWnYnu99R-uW6qUg)
+
+**Image classification with TF Hub**: [https://colab.research.google.com/drive/1pDmpZrGQuymnLkE_eTE-CHtjb39mQ5QB](https://colab.research.google.com/drive/1pDmpZrGQuymnLkE_eTE-CHtjb39mQ5QB)
+
+**Keras functional API with TF 2.0**: [https://colab.research.google.com/drive/1xZxbHAzbr53OxFcHMAjOZlfv7_jyntzy](https://colab.research.google.com/drive/1xZxbHAzbr53OxFcHMAjOZlfv7_jyntzy)
+
+**MNIST Classification with TF2.0**: [https://colab.research.google.com/drive/14OoNrvzPQhWiKBMr60Ab8soavE9NATIp](https://colab.research.google.com/drive/14OoNrvzPQhWiKBMr60Ab8soavE9NATIp)
+
+**Pre-trained models with Keras**: [https://colab.research.google.com/drive/1oTdXeEriPdSVFC5v0qjEhbIEJP_zszXg](https://colab.research.google.com/drive/1oTdXeEriPdSVFC5v0qjEhbIEJP_zszXg)
+
+**Transfer Learning with Keras**: [https://colab.research.google.com/drive/1XRcr2v2HFD8AV5GFNP0fxutHtqGdV61a](https://colab.research.google.com/drive/1XRcr2v2HFD8AV5GFNP0fxutHtqGdV61a)
+
+**Neural Style Transfer with Keras**: [https://colab.research.google.com/drive/11Cc3oyFRefWToDq021SkSOI7JA24KfMU](https://colab.research.google.com/drive/11Cc3oyFRefWToDq021SkSOI7JA24KfMU)
