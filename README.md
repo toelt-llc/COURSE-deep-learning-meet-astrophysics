@@ -5,7 +5,7 @@ The workshop has been organized by Timothy Gebhardt ([timothy.gebhard@tuebingen.
 Prof. Dr. Sascha Quanz ([Homepage](https://www.phys.ethz.ch/the-department/people/person-detail.MTY1MzQ3.TGlzdC84NDIsMTE3MjU5OTI5OQ==.html)) and
 Umberto Michelucci ([umberto.michelucci@toelt.ai](mailto:umberto.michelucci@toelt.ai)).
 
-## Source
+## Sources and Books
 
 The material is based on the two books:
 
@@ -30,4 +30,8 @@ Slides are available as google slides and can be accessed at the following links
 
 **Chalk Talk Convolutional Neural Networks**: [https://docs.google.com/presentation/d/1nWEzUPHgouG8c0uY_CSLMhsqfP84QDFdmTeR_0EaeSI/edit?usp=sharing](https://docs.google.com/presentation/d/1nWEzUPHgouG8c0uY_CSLMhsqfP84QDFdmTeR_0EaeSI/edit?usp=sharing)
 
-(C) 2020 Umberto Michelucci, [www.toelt.ai](www.toelt.ai) 
+(C) 2020 Umberto Michelucci, [www.toelt.ai](www.toelt.ai)
+
+## Hands-on Notebooks
+
+All the hands-on Jupyter notebooks can be run on Google Colab, so no need to install anything locally on your laptop. Simply click on the links below and try the notebooks.
