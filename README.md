@@ -1,7 +1,7 @@
 # Deep Learning meets (Astro)phyisics
 
 This repository contains the material for the workshop held at ETH (Zürich) on the 22nd January 2020.
-The workshop has been organized by Timothy Gebhardt ([timothy.gebhard@tuebingen.mpg.de](emailto:timothy.gebhard@tuebingen.mpg.de)),
+The workshop has been organized by Timothy Gebhardt ([timothy.gebhard@tuebingen.mpg.de](mailto:timothy.gebhard@tuebingen.mpg.de)),
 Prof. Dr. Sascha Quanz ([Homepage](https://www.phys.ethz.ch/the-department/people/person-detail.MTY1MzQ3.TGlzdC84NDIsMTE3MjU5OTI5OQ==.html)) and
 Umberto Michelucci ([umberto.michelucci@toelt.ai](mailto:umberto.michelucci@toelt.ai)).
 
