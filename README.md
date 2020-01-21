@@ -1,4 +1,4 @@
-# Deep Learning meets (Astro)phyisics
+# Deep Learning meets (Astro)physics
 
 Organizers:
 Timothy Gebhard ([timothy.gebhard@tuebingen.mpg.de](mailto:timothy.gebhard@tuebingen.mpg.de))
